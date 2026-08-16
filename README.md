@@ -3,12 +3,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![PyQt6](https://img.shields.io/badge/PyQt-6.6+-green.svg)
-![License](https://img.shields.io/badge/License-MIT.svg)
 
 **KeyGenPy** ist ein leistungsstarker Passwort-Generator mit einer übersichtlichen Dark-Mode-GUI. Er erzeugt hochsichere Passwörter mit einstellbarer Länge, Zeichenzusammensetzung und Sonderzeichen-Häufigkeit. Zusätzlich bietet er einen Verlauf, Export-Funktionen und macOS-iCloud-Integration.
-
-![Screenshot](screenshot.png)  
-*(Ersetzen Sie `screenshot.png` durch einen tatsächlichen Screenshot)*
 
 <img width="910" height="759" alt="screenshot" src="https://github.com/user-attachments/assets/f4c52b64-4e3d-4d64-a72e-a067469ac0f4" />
 
