@@ -1,3 +1,39 @@
+MIT-Lizenz
+
+Copyright (c) 2026 BinhDiez64
+
+Hiermit wird jeder Person, die eine Kopie dieser Software und der zugehörigen
+Dokumentationsdateien (die "Software") erhält, unentgeltlich die Erlaubnis erteilt,
+die Software ohne Einschränkung zu nutzen, einschließlich und ohne Einschränkung
+der Rechte zur Nutzung, Kopie, Änderung, Zusammenführung, Veröffentlichung,
+Verteilung, Unterlizenzierung und/oder zum Verkauf von Kopien der Software, und Personen, denen
+die Software zur Verfügung gestellt wird, dies unter den folgenden Bedingungen zu gestatten:
+Der obige Urheberrechtshinweis und dieser Erlaubnishinweis müssen in allen Kopien oder
+wesentlichen Teilen der Software enthalten sein.
+
+DIE SOFTWARE WIRD OHNE JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GARANTIE BEREITGESTELLT,
+EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF DIE GARANTIEN DER MARKTGÄNGIGKEIT, DER EIGNUNG
+FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN. IN KEINEM FALL
+SIND DIE AUTOREN ODER RECHTSINHABER FÜR JEGLICHE ANSPRÜCHE, SCHÄDEN ODER
+ANDEREN HAFTUNGEN VERANTWORTLICH, OB IN EINER VERTRAGS- ODER DELIKTSHAFTUNG ODER ANDERWEITIG,
+DIE AUS DER ODER IN VERBINDUNG MIT DER SOFTWARE ODER DER NUTZUNG ODER ANDEREN HANDLUNGEN 
+DER SOFTWARE ENTSTEHEN.
+
+    ---
+
+Diese Software verwendet PyQt6, das urheberrechtlich (c) Riverbank Computing Limited
+geschützt ist.
+PyQt6 ist freie Software: Sie können es unter den Bedingungen der GNU General Public License,
+wie von der Free Software Foundation veröffentlicht, entweder Version 3 der Lizenz
+oder (nach Ihrer Wahl) jeder späteren Version, weiterverteilen und/oder modifizieren.
+PyQt6 wird in der Hoffnung verteilt, dass es nützlich sein wird, aber OHNE JEGLICHE GARANTIE;
+sogar ohne die stillschweigende Garantie der MARKTGÄNGIGKEIT oder der EIGNUNG FÜR EINEN BESTIMMTEN ZWECK.
+Weitere Einzelheiten finden Sie in der GNU General Public License.
+Sie sollten eine Kopie der GNU General Public License zusammen mit PyQt6 erhalten haben.
+Falls nicht, siehe <http://www.gnu.org/licenses/>.
+
+=== English Version ===
+
 MIT License
 
 Copyright (c) 2026 BinhDiez64
