@@ -1,6 +1,15 @@
-
 # KeyGenPy – Professioneller Passwort-Generator
 
+Dieses Repository wird nicht mehr gepflegt.
+
+Die Entwicklung wurde in das neue offizielle Repository verschoben:
+
+https://github.com/BinhDiez/KeyGenPy
+
+https://github.com/BinhDiez/KeyGenPy---Passwortgenerator
+
+
+Alle zukünftigen Updates, Fehlerbehebungen und Releases werden ausschließlich dort veröffentlicht.
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![PyQt6](https://img.shields.io/badge/PyQt-6.6+-green.svg)
 
